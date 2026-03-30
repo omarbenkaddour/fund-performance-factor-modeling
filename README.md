@@ -20,7 +20,6 @@ Note: Proprietary WRDS data cannot be publicly shared
 
 
 ## Methods
-- Data cleaning and monthly merging
 
 - Regressions: CAPM, Fama-French 3-factor, Carhart 4-factor
 
